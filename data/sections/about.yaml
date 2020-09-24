@@ -1,0 +1,76 @@
+# section information
+section:
+  name: About
+  enable: true
+  weight: 1
+  showOnNavbar: true
+
+# your designation
+designation: Machine Learning Engineer
+# your company information
+company:
+  name: Auk Technology
+  url: "http://www.tbw.cloud/"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/MALHOU_CV_20_21.pdf"
+
+# a summary about you
+summary: "I am a passionate engineer, just started up my career.  I created this website to share with people some of the fun projects I'm working on!"
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "mohamed@auktechnology.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/mohamedmlh"
+
+- name: Stackoverflow
+  icon: "fab fa-stack-overflow"
+  url: "#"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/mohamed-malhou-57a5b7173"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/MalhouMohamed"
+
+- name: Facebook
+  icon: "fab fa-facebook"
+  url: "https://www.facebook.com/mohamed.malhou.3"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Leadership
+  percentage: 85
+  color: blue
+- name: Team Work
+  percentage: 90
+  color: yellow
+- name: Communication
+  percentage: 85
+  color: pink
+- name: Hard Working
+  percentage: 85
+  color: green
+- name: Fast Learner
+  percentage: 85
+  color: sky
+- name: Problem Solving
+  percentage: 85
+  color: orange
+# you can also provide color code instead of pre-defined color name
+# - name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
+# - name: Example 2
+#   percentage: 65
+#   color: "#8b8383"

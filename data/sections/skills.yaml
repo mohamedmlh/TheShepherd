@@ -1,0 +1,48 @@
+# section information
+section:
+  name: Skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: .NET Core
+  icon: "images/skills/dotnetcore.png"
+  summary: "Capable of designing, developing, and managing applications on .NET Core. Experienced in writing ASP.NET MVC controllers for web developement."
+  url: "https://docs.microsoft.com/fr-fr/aspnet/core/mvc/overview?view=aspnetcore-3.1"
+
+- name: PyTorch Ecosystem
+  icon: "images/skills/pytorch.png"
+  summary: "Design, build and support production AI solutions using PyTorch components."
+  url: "https://golang.org/"
+
+- name: Cloud Computing
+  icon: "images/skills/cloud.png"
+  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+
+- name: Docker
+  icon: "images/skills/docker.svg"
+  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
+  url: "https://www.docker.com/"
+
+- name: SpaCy and Natural Language Processing
+  icon: "images/skills/spacy.png"
+  summary: "Using effective text representations to transform natural language into useful features. SpaCy is an industrial NLP library. It interoperates seamlessly with TensorFlow, PyTorch, scikit-learn, Gensim and the rest of Python's awesome AI ecosystem."
+  url: "https://spacy.io/"
+
+- name: Operation Research
+  icon: "images/skills/or.png"
+  summary: "Use strong quantitative and analytic abilities to integrate and analyze data. Develop and implement complex mathematical and statistical models that relate sales or marketing activities to financial results"
+
+- name: Git
+  icon: "images/skills/git.png"
+  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  url: "https://git-scm.com/"
+
+- name: C++
+  icon: "images/skills/c++.png"
+  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
