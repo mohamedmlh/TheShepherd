@@ -1,4 +1,4 @@
-baseURL: https://mohamedmlh.github.io/TheShepherd/
+baseURL: "https://mohamedmlh.github.io/TheShepherd/"
 languageCode: en-us
 title: "TheShepherd"
 theme: "theme"
