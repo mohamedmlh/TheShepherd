@@ -2,7 +2,7 @@ baseURL: https://mohamedmlh.github.io/TheShepherd/
 languageCode: en-us
 title: "TheShepherd"
 theme: "theme"
-
+publishDir: "docs"
 # Allow raw html in markdown file
 markup:
   goldmark:
