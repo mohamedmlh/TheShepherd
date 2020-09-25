@@ -1,7 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\data",
+    "\\data\\sections",
+    "\\static",
+    "\\themes",
+    "\\themes\\theme",
+    "\\themes\\theme\\exampleSite",
+    "\\themes\\theme\\exampleSite\\static",
+    "\\themes\\theme\\exampleSite\\static\\images",
+    "\\themes\\theme\\static"
   ],
-  "SelectedNode": "\\config.yaml",
+  "SelectedNode": "\\data\\sections\\skills.yaml",
   "PreviewInSolutionExplorer": false
 }
