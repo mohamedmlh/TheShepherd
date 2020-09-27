@@ -1,16 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\data",
-    "\\data\\sections",
-    "\\static",
-    "\\themes",
-    "\\themes\\theme",
-    "\\themes\\theme\\exampleSite",
-    "\\themes\\theme\\exampleSite\\static",
-    "\\themes\\theme\\exampleSite\\static\\images",
-    "\\themes\\theme\\static"
+    "\\docs",
+    "\\docs\\assets",
+    "\\docs\\assets\\css",
+    "\\docs\\assets\\css\\layouts"
   ],
-  "SelectedNode": "\\data\\sections\\skills.yaml",
+  "SelectedNode": "\\.gitignore",
   "PreviewInSolutionExplorer": false
 }
